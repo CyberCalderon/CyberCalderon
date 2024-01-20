@@ -1,10 +1,10 @@
 # Hi, I'm Nick!
 
-<!--- Todo
+ Todo
 ## 👨‍💻 Cybersecurity Projects:
 
 - [Active Directory Home Lab](https://github.com/CyberCalderon/ActiveDirectoryLab/tree/main)
---->
+
   
 ## Certifications
 - [Pentest+](https://drive.google.com/file/d/1OWTjEIz5bNVKd4ZjHVQ24nAkGgACaK3O/view?usp=sharing)
