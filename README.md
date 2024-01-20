@@ -1,6 +1,5 @@
 # Hi, I'm Nick!
 
- Todo
 ## 👨‍💻 Cybersecurity Projects:
 
 - [Active Directory Home Lab](https://github.com/CyberCalderon/ActiveDirectoryLab/tree/main)
