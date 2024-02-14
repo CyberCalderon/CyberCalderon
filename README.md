@@ -3,6 +3,7 @@
 ## 👨‍💻 Cybersecurity Projects:
 
 - [Active Directory Home Lab](https://github.com/CyberCalderon/ActiveDirectoryLab/tree/main)
+- [Vulnerability Scanner and Pentest Home Lab](https://github.com/CyberCalderon/VulnerabilityScanLab)
 
   
 ## Certifications
