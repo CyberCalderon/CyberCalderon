@@ -5,6 +5,9 @@
 - [Active Directory Home Lab](https://github.com/CyberCalderon/ActiveDirectoryLab/tree/main)
 - [Vulnerability Scanner and Pentest Home Lab](https://github.com/CyberCalderon/VulnerabilityScanLab)
 
+## Honeypot Capstone Project:
+- [IT Proposal](https://drive.google.com/file/d/1-RzAxoNNXzuyueGXTwinDjstFjqdhzXy/view?usp=sharing)
+- [After Implementation](https://drive.google.com/file/d/1va_6pfVozLRjHiWHA5W6sI0-Z7OLWAh8/view?usp=sharing)
   
 ## Certifications
 - [Pentest+](https://drive.google.com/file/d/1OWTjEIz5bNVKd4ZjHVQ24nAkGgACaK3O/view?usp=sharing)
