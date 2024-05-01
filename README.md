@@ -10,12 +10,12 @@
 - [After Implementation](https://drive.google.com/file/d/1va_6pfVozLRjHiWHA5W6sI0-Z7OLWAh8/view?usp=sharing)
   
 ## Certifications
-- [Pentest+](https://drive.google.com/file/d/1OWTjEIz5bNVKd4ZjHVQ24nAkGgACaK3O/view?usp=sharing)
-- [CySa+](https://drive.google.com/file/d/12sozWB2eub7mCu9E91j4gKvO_MeKmRse/view?usp=sharing)
-- [Security+](https://drive.google.com/file/d/1k3jAemlw2qMF3lVcdjQMKeQJcdmfqVsL/view?usp=sharing)
-- [Network+](https://drive.google.com/file/d/1o-BZD-ji4cLxGN50AKz2Dj4b3ftNSh9j/view?usp=sharing)
-- [A+](https://drive.google.com/file/d/1fSZWQV-uUD1uX0vv5CheHGOa1nYYY5K5/view?usp=sharing)
-- [SSCP](https://www.credly.com/badges/2f6bbba4-2777-4974-9f8e-1d0dd1626804/public_url)
+- [CompTIA Pentest+](https://drive.google.com/file/d/1OWTjEIz5bNVKd4ZjHVQ24nAkGgACaK3O/view?usp=sharing)
+- [CompTIA CySa+](https://drive.google.com/file/d/12sozWB2eub7mCu9E91j4gKvO_MeKmRse/view?usp=sharing)
+- [CompTIA Security+](https://drive.google.com/file/d/1k3jAemlw2qMF3lVcdjQMKeQJcdmfqVsL/view?usp=sharing)
+- [CompTIA Network+](https://drive.google.com/file/d/1o-BZD-ji4cLxGN50AKz2Dj4b3ftNSh9j/view?usp=sharing)
+- [CompTIA A+](https://drive.google.com/file/d/1fSZWQV-uUD1uX0vv5CheHGOa1nYYY5K5/view?usp=sharing)
+- [ISC2) SSCP](https://www.credly.com/badges/44ab0a95-5922-4104-a3a1-d1a2ac8a4b29/public_url)
 - [ITILv4](https://drive.google.com/file/d/1K38VDoANwu8Sff5mYZDu9f5Zv-PIlMEx/view?usp=sharing)
 - [Linux Essentials](https://drive.google.com/file/d/1556rcU80Ke-mPbcf15z1FcnztQpe4tre/view?usp=sharing)
 - [Qualys Vulnerability Management](https://drive.google.com/file/d/1a4wHvgjZZfmKZUE0_rjz3ATazQdnqnRN/view?usp=sharing)
