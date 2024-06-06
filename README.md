@@ -12,7 +12,7 @@
 
 ## 🖥️ Helpdesk Projects:
 
-- [Zendesk Helpdesk Ticketing System Project](link_to_project_repo) - Configured and customized a Zendesk helpdesk ticketing system, optimizing support operations and enhancing user experience through tailored ticket management and automation.
+- [Zendesk Setup](https://github.com/CyberCalderon/zendesk-helpdesk-ticketing-system)
 
 ## Certifications
 - [CompTIA Pentest+](https://drive.google.com/file/d/1OWTjEIz5bNVKd4ZjHVQ24nAkGgACaK3O/view?usp=sharing)
