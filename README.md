@@ -6,9 +6,14 @@
 - [Vulnerability Scanner and Pentest Home Lab](https://github.com/CyberCalderon/VulnerabilityScanLab)
 
 ## Honeypot Capstone Project:
+
 - [IT Proposal](https://drive.google.com/file/d/1-RzAxoNNXzuyueGXTwinDjstFjqdhzXy/view?usp=sharing)
 - [After Implementation](https://drive.google.com/file/d/1va_6pfVozLRjHiWHA5W6sI0-Z7OLWAh8/view?usp=sharing)
-  
+
+## 🖥️ Helpdesk Projects:
+
+- [Zendesk Helpdesk Ticketing System Project](link_to_project_repo) - Configured and customized a Zendesk helpdesk ticketing system, optimizing support operations and enhancing user experience through tailored ticket management and automation.
+
 ## Certifications
 - [CompTIA Pentest+](https://drive.google.com/file/d/1OWTjEIz5bNVKd4ZjHVQ24nAkGgACaK3O/view?usp=sharing)
 - [CompTIA CySa+](https://drive.google.com/file/d/12sozWB2eub7mCu9E91j4gKvO_MeKmRse/view?usp=sharing)
