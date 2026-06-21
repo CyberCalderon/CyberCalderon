@@ -1,18 +1,21 @@
 # Hi, I'm Nick!
+IAM Analyst focused on Microsoft Entra ID, Active Directory, identity governance, and PowerShell automation. I build identity reporting and audit-support scripts for hybrid identity environments.
 
-## 👨‍💻 Cybersecurity Projects:
-
+## Featured Identity Projects:
+- [IAM PowerShell Toolkit](https://github.com/CyberCalderon/IAM-PowerShell-Toolkit) 
+  PowerShell automation for AD and Entra ID reporting, stale account review, privileged group audits, and Conditional Access documentation.
 - [Active Directory Home Lab](https://github.com/CyberCalderon/ActiveDirectoryLab/tree/main)
+  Windows Server and AD lab focused on users, groups, OUs, GPOs, and domain administration.
 - [Vulnerability Scanner and Pentest Home Lab](https://github.com/CyberCalderon/VulnerabilityScanLab)
+  Security lab covering vulnerability scanning, enumeration, and basic penetration testing workflows.
 
-## Honeypot Capstone Project:
-
-- [IT Proposal](https://drive.google.com/file/d/1-RzAxoNNXzuyueGXTwinDjstFjqdhzXy/view?usp=sharing)
-- [After Implementation](https://drive.google.com/file/d/1va_6pfVozLRjHiWHA5W6sI0-Z7OLWAh8/view?usp=sharing)
-
-## 🖥️ Helpdesk Projects:
-
-- [Zendesk Setup](https://github.com/CyberCalderon/zendesk-helpdesk-ticketing-system)
+## Current Focus:
+- Microsoft SC-300
+- Microsoft Graph PowerShell
+- Privileged Identity Management
+- Identity Governance
+- OAuth / OIDC / SAML
+- Conditional Access
 
 ## Certifications
 - [(ISC2) SSCP](https://www.credly.com/badges/44ab0a95-5922-4104-a3a1-d1a2ac8a4b29/public_url)
@@ -29,11 +32,6 @@
 - [Google IT Support Professional](https://drive.google.com/file/d/115JDSRYZSRggsvC_CLmzhIkq0gTsGcUO/view?usp=sharing)
 - [FEMA National Incident Management System 100, 200, 700](https://drive.google.com/drive/folders/1qRy_tO2JkuKR6QoUftWEvJMsdRYsQLhm?usp=drive_link)
 
-<!--- Todo
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](URL)
---->
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -41,19 +39,4 @@
 -->
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://www.linkedin.com/in/nicholas-calderon-52113283/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/cybercalderon/
