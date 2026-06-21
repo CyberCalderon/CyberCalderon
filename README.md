@@ -1,5 +1,5 @@
 # Hi, I'm Nick!
-IAM Analyst focused on Microsoft Entra ID, Active Directory, identity governance, and PowerShell automation. I build identity reporting and audit-support scripts for hybrid identity environments.
+IAM Analyst focused on Microsoft Entra ID, Active Directory, identity governance, and PowerShell automation. I support enterprise hybrid identity environments and build automation for identity reporting, account lifecycle visibility, privileged access review, and audit support.
 
 ## Featured Identity Projects:
 - [IAM PowerShell Toolkit](https://github.com/CyberCalderon/IAM-PowerShell-Toolkit) 
